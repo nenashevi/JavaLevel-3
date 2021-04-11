@@ -1,0 +1,9 @@
+INFO  2021-04-10 21:04:00 [main] server.Server (Server.java:32) - server started
+INFO  2021-04-10 21:06:48 [main] server.Server (Server.java:32) - server started
+INFO  2021-04-10 21:07:05 [main] server.Server (Server.java:37) - client connected /127.0.0.1:52614 
+INFO  2021-04-10 21:13:30 [main] server.Server (Server.java:32) - server started
+INFO  2021-04-10 21:13:46 [main] server.Server (Server.java:37) - client connected /127.0.0.1:52675 
+INFO  2021-04-10 21:13:53 [pool-2-thread-1] server.ClientHandler (ClientHandler.java:111) - Client disconnected
+INFO  2021-04-10 21:15:05 [main] server.Server (Server.java:32) - server started
+INFO  2021-04-10 21:15:16 [main] server.Server (Server.java:37) - client connected /127.0.0.1:52691 
+INFO  2021-04-10 21:15:20 [pool-2-thread-1] server.ClientHandler (ClientHandler.java:111) - Client disconnected
